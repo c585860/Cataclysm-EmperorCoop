@@ -1,0 +1,19 @@
+{
+  "//1": "See docs/user-guides/FONT_OPTIONS.md for how to configure your fonts.",
+  "typeface": [
+    { "path": "data/font/Unifont点阵黑.ttf", "hinting": "Bitmap" },
+    "data/font/unifont.ttf"
+  ],
+  "gui_typeface": [
+    { "path": "data/font/精品点阵体.ttf", "hinting": "Bitmap" },
+    "data/font/unifont.ttf"
+  ],
+  "map_typeface": [
+    { "path": "data/font/Unifont点阵黑.ttf", "hinting": "Bitmap" },
+    "data/font/unifont.ttf"
+  ],
+  "overmap_typeface": [
+    { "path": "data/font/Unifont点阵黑.ttf", "hinting": "Bitmap" },
+    "data/font/unifont.ttf"
+  ]
+}
