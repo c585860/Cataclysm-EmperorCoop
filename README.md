@@ -1,5 +1,7 @@
 # Cataclysm-EmperorCoop
 
+![汽车大修](images/汽车大修.png)
+
 **帝国求生-大灾变** 是基于 CDDA 分支 [Cataclysm: Cleanwater Bomb](https://github.com/LYHGLYTX/Cataclysm-Cleanwater-Bomb) 制作的联机版本。
 
 本项目以联机合作体验为核心目标，在原有基础上对引擎相关实现进行了大量重做，特别实现了联机模式相关功能。当前发布包是最小可玩的内测版本，主要用于验证联机流程、多人同步与基础游玩体验。
