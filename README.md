@@ -2,7 +2,7 @@
 
 **Cataclysm: EmperorCOOP** 是基于 [Cataclysm: Cleanwater Bomb](https://github.com/LYHGLYTX/Cataclysm-Cleanwater-Bomb) 与 [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) 制作的联机合作版本。
 
-本项目以多人联机和合作生存为核心目标，在原有 CDDA/CCB 基础上重做和扩展了大量引擎逻辑，特别是主机/客户端流程、玩家身份、世界同步、车辆同步、角色状态同步与联机 HUD 等内容。
+本项目以多人联机和合作生存为核心目标，在原有CDDA:COOP基础上重做和扩展了大量引擎逻辑，继承于ccb的原版特性,特别是主机/客户端流程、玩家身份、世界同步、车辆同步、角色状态同步与联机 HUD 等内容。
 
 当前版本仍处于内测阶段，可能存在崩溃、同步异常、存档不兼容、功能缺失或玩法不完整等问题。请不要把重要存档只保存在本测试版本中。
 
