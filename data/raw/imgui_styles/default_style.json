@@ -1,5 +1,5 @@
 {
-  "//": "Modern dark ImGui style for CDDA-COOP main menu dialogs.",
+  "//": "Modern dark ImGui style for Cataclysm: EmperorCOOP main menu dialogs.",
   "inherit_base_colors": false,
   "colors": {
     "ImGuiCol_Text": [ 0.85, 0.85, 0.85, 1.0 ],

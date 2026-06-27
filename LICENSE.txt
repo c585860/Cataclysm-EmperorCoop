@@ -6,14 +6,6 @@ GNU Unifont (data/font/unifont.ttf) is licensed under SIL Open Font License vers
 
 --------------------------------------------------------------------------------
 
-Unifont点阵黑 (data/font/Unifont点阵黑.ttf) is derived from GNU Unifont and is licensed under SIL Open Font License version 1.1 and GNU General Public License v2+ with the GNU font embedding exception. Visit https://unifoundry.com/unifont/index.html for details.
-
---------------------------------------------------------------------------------
-
-精品点阵体 (data/font/精品点阵体.ttf) is licensed under the SIL Open Font License version 1.1.
-
---------------------------------------------------------------------------------
-
 Terminus Font (data/font/terminus.ttf) is licensed under the SIL Open Font License (see LICENSE-OFL-Terminus-Font.txt).
 
 --------------------------------------------------------------------------------
@@ -22,7 +14,7 @@ Vecterminus Font (data/font/VecTerminus12Medium.otf) is licensed under the SIL O
 
 --------------------------------------------------------------------------------
 
-Roboto font (data/font/Roboto-Medium.ttf) is licensed under the Apache License, version 2.0 (see LICENSE-Apache-Robot-Font.txt).
+Robot font (data/font/Roboto-Medium.tt) is licensed under the Apache License, version 2.0 (see LICENSE-Apache-Roboto-Font.txt).
 
 --------------------------------------------------------------------------------
 
